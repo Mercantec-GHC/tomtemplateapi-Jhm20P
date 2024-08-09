@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|c:\\users\\jmikk\\documents\\github\\tomtemplateapi-jhm20p\\dataapicall\\dataapicall\\components\\pages\\bilbasen.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|solutionrelative:dataapicall\\components\\pages\\bilbasen.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|c:\\users\\jmikk\\documents\\github\\tomtemplateapi-jhm20p\\dataapicall\\dataapicall\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|solutionrelative:dataapicall\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|c:\\users\\jmikk\\documents\\github\\tomtemplateapi-jhm20p\\dataapicall\\dataapicall\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|solutionrelative:dataapicall\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|c:\\users\\jmikk\\documents\\github\\tomtemplateapi-jhm20p\\dataapicall\\dataapicall\\components\\pages\\fuel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|solutionrelative:dataapicall\\components\\pages\\fuel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|c:\\users\\jmikk\\documents\\github\\tomtemplateapi-jhm20p\\dataapicall\\dataapicall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBB645B-9684-4DA0-8A74-E6BEB4D8A7D4}|DataApiCall\\DataApiCall.csproj|solutionrelative:dataapicall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bilbasen.razor",
+              "DocumentMoniker": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Components\\Pages\\Bilbasen.razor",
+              "RelativeDocumentMoniker": "DataApiCall\\Components\\Pages\\Bilbasen.razor",
+              "ToolTip": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Components\\Pages\\Bilbasen.razor",
+              "RelativeToolTip": "DataApiCall\\Components\\Pages\\Bilbasen.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:17:28.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "DataApiCall\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "DataApiCall\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:15:36.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "DataApiCall\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Components\\_Imports.razor",
+              "RelativeToolTip": "DataApiCall\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T09:14:14.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Program.cs",
+              "RelativeDocumentMoniker": "DataApiCall\\Program.cs",
+              "ToolTip": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Program.cs",
+              "RelativeToolTip": "DataApiCall\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:11:43.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fuel.razor",
+              "DocumentMoniker": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Components\\Pages\\Fuel.razor",
+              "RelativeDocumentMoniker": "DataApiCall\\Components\\Pages\\Fuel.razor",
+              "ToolTip": "C:\\Users\\JMikk\\Documents\\GitHub\\tomtemplateapi-Jhm20P\\DataApiCall\\DataApiCall\\Components\\Pages\\Fuel.razor",
+              "RelativeToolTip": "DataApiCall\\Components\\Pages\\Fuel.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T09:11:34.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

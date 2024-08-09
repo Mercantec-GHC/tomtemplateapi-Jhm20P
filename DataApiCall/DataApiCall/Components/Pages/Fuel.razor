@@ -1,0 +1,40 @@
+﻿@page "/fuel"
+@inject HttpClient _http
+<h3>Fuel</h3>
+
+@if(petrol != null && diesel != null)
+{
+    <ApexChart TItem="FuelPrices" Title="Graph" XAxisType="XAxisType.Datetime">
+         <ApexPointSeries TItem="@FuelPrices"
+                          Items="@petrol"
+                          Name="Petrol"
+                          SeriesType="SeriesType.Area"
+                          XValue="@(e => e.date)"
+                          YValue="@(e => e.price)"
+           />
+        <ApexPointSeries TItem="@FuelPrices"
+                         Items="@diesel"
+                         Name="Diesel"
+                         SeriesType="SeriesType.Area"
+                         XValue="@(e => e.date)"
+                         YValue="@(e => e.price)" />
+
+    </ApexChart>
+}
+
+@code {
+    public FuelPrices[] petrol;
+    public FuelPrices[] diesel;
+
+    protected override async Task OnInitializedAsync()
+    {
+        petrol = await _http.GetFromJsonAsync<FuelPrices[]>("https://magsapi.onrender.com/api/miles95");
+        diesel = await _http.GetFromJsonAsync<FuelPrices[]>("https://magsapi.onrender.com/api/diesel");
+    }
+
+    public class FuelPrices
+    {
+        public decimal price { get; set; }
+        public DateTime date { get; set; }
+    }
+}

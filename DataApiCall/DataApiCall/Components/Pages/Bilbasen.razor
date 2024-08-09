@@ -1,0 +1,17 @@
+﻿@page "/bilbasen"
+@inject HttpClient _http
+<h3>Bilbasen</h3>
+
+@code {
+/*   public List<JsonNode> bilbasenString;
+ * 
+        public int classification;
+
+        protected override async Task OnInitializedAsync()
+            {
+            bilbasenString = await _http.GetFromJsonAsync<List<JsonNode>>("https://magsapi.onrender.com/api/bilbasen");
+            var getKvAsObject = bilbasenString[0]!["aTypeProperties"]!["adnuntiusDisplay"]!["kv"]!.AsObject();
+            classification = Convert.ToInt32((string?)getKvAsObject.AsArray().AsEnumerable().First(e => e.AsObject().ContainsKey("attr_clasifications")).AsObject()["attr_clasifications"][0]);
+        }
+    */
+}
